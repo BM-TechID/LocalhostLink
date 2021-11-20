@@ -1,6 +1,5 @@
 #!/bin/bash
 clear
-sh install.sh
 echo "Enteni dela cuk agi di setting...."; sleep 1; echo ""
 killall -q screen
 rm -rf logremote.txt 
