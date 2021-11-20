@@ -12,3 +12,17 @@ chmod +x *.sh
 #run
 ./link.sh
 ```
+
+## Change Bot Token & Your Id Telegran
+```bash
+cd Localhost
+nano bot.sh
+
+#find
+TOKEN_BOT=""
+CHAT_ID=""
+
+
+ctrl+x, y, and enter.
+done
+```
