@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Bot telegram
 
-TOKEN_BOT=""
-CHAT_ID=""
+TOKEN_BOT="2105823821:AAFczmXdo52u94usWbMVqWCAq9A-oCzPHHM"
+CHAT_ID="1178201791"
 
 echo "Cek Token Bot kamu..."; sleep 1
 echo "$TOKEN_BOT"
